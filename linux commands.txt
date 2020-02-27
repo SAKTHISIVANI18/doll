@@ -1,0 +1,5 @@
+pwd stands for present working directory.
+ls shows list of files.
+cat displays the content of files.
+mv will rename.
+rm will remove a files.
